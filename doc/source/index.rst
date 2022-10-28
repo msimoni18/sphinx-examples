@@ -6,6 +6,17 @@
 Sphinx Example's documentation
 ==============================
 
+Documentation style based on these projects:
+
+- pydata-sphinx-theme.readthedocs.io/en/stable/index.html
+
+- sphinx-design.readthedocs.io/en/latest/index.html
+
+- pandas.pydata.org/docs/index.html
+
+- python.arviz.org/en/latest/index.html
+
+
 .. grid:: 2
    :gutter: 1
 
