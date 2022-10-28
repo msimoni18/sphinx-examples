@@ -1,0 +1,8 @@
+sphinx
+pydata-sphinx-theme
+nbsphinx
+sphinx-copybutton
+sphinx-panels
+sphinx-togglebutton
+sphinx-tabs
+sphinx-gallery
