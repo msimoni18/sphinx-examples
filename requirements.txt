@@ -2,7 +2,7 @@ sphinx
 pydata-sphinx-theme
 nbsphinx
 sphinx-copybutton
-sphinx-panels
+sphinx-design
 sphinx-togglebutton
 sphinx-tabs
 sphinx-gallery
